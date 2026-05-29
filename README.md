@@ -23,7 +23,7 @@ cloud-cost-estimator/
 
 ## How to Run
 
-Requires Python 3. No additional libraries needed.
+Requires Python 3.7+. Uses only the Python standard library — no external dependencies.
 
 ```bash
 git clone https://github.com/remshatech/cloud-cost-estimator
