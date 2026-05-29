@@ -1,0 +1,25 @@
+AWS Cloud Cost Estimator Report
+==========================================
+
+Service: EC2
+  Instance: t2.micro
+  Hours: 750.0 hrs/month
+ Cost:     Free (free tier)
+
+Service: EC2
+  Instance: t2.small
+  Hours: 900.0 hrs/month
+ Cost:     $20.7/month
+
+Service: S3
+  Storage: 3.0 GB
+  Billable: 0 GB
+ Cost:     Free (free tier)
+
+Service: S3
+  Storage: 100.0 GB
+  Billable: 95.0 GB
+ Cost:     $2.185/month
+
+==========================================
+Estimated Total: $22.885 / month
